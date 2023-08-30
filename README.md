@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![wakatime](https://wakatime.com/badge/user/4c7e7cf2-d8b7-49f9-9e2a-302687a35013.svg)](https://wakatime.com/@4c7e7cf2-d8b7-49f9-9e2a-302687a35013)
 <!--
 **russellzparadox/russellzparadox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
